@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  background-color: #121212; /* Dark background */
+  color: #fff; /* White text */
+  padding: 20px;
+}
+
+h1 {
+  color: #ffffff;
+}
+/* App.css */
+/* App.css */
+.section {
+  margin-top: 30px; /* Increase space above each section */
+  margin-bottom: 40px; /* Increase space below each section */
+}
+
+.section h2 {
+  margin-bottom: 20px; /* Increase space below each heading */
+}

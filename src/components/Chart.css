@@ -1,0 +1,18 @@
+/* src/components/Chart.css */
+.recharts-wrapper {
+  background-color: #121212; /* Dark background for charts */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.recharts-text {
+  fill: #fff !important; /* White text for labels and tooltips */
+}
+
+.recharts-tooltip-wrapper {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7); /* Dark background for tooltips */
+  border-radius: 5px;
+  padding: 5px;
+}
